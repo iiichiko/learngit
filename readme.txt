@@ -1,5 +1,42 @@
-i
-B
-B
+git is a distributed version control system.
+git is free software.
+wgit has a mutable index called stag.
 
-bvhY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
