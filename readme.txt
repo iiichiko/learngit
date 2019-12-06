@@ -1,8 +1,8 @@
 git is a distributed version control system.
 git is free software.
-wgit has a mutable index called stag.
+git has a mutable index called stag.
 
-Aww changes.
+get some changes.
 
 
 
